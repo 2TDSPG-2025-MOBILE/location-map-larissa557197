@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "name": "geo-app",
+    "slug": "geo-app",
+    "version": "1.0.0",
+    "plugins": [
+      [
+        "expo-location",
+        {
+          "locationAlwaysAndWhenInUsePermission": "Permitir que o aplicativo $(PRODUCT_NAME) acesse sua localização para traçar uma rota."
+        }
+      ]
+    ]
+  }
+}
