@@ -172,3 +172,6 @@ const styles = StyleSheet.create({
     color: "#666"
   },
 });
+
+
+// usamos até a API do google 
